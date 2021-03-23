@@ -1,6 +1,6 @@
 # Iot
 
-# mikä on Iot
+# mikä on Iot?
  
 
 ## Sääasemajärjestelmän toimintakaavio

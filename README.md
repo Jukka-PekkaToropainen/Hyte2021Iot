@@ -37,15 +37,11 @@ vaihtavat tietoa(viestejä) keskenään.
 
 esimerkkejä protokollista 
 
-TCP-protokolla 
-IP-protokolla 
-HTTP-protokolla
-Signal-protokolla
+- TCP-protokolla 
+- IP-protokolla 
+- HTTP-protokolla
+- Signal-protokolla
 
-
-- WhatsApp 
-- on pikaviestintä palvelu, jonka avulla palvelu käyttäjät voivat muun muassa 
-vaihtaa toistensa kanssa viestejä tai käydä äänipuheluita keskenään.
 
 palvelin on johonkin verkkoon kytketty tietokone,jossa on yksi tai useampi erilainen palvelinohjelma käynnissä.
 

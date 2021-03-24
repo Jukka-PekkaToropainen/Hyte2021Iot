@@ -49,7 +49,7 @@ vaihtaa toistensa kanssa viestejä tai käydä äänipuheluita keskenään.
 
 palvelin on johonkin verkkoon kytketty tietokone,jossa on yksi tai useampi erilainen palvelinohjelma käynnissä.
 
-Ithernet -palvelut (eli verkkopalvelut)
+Internet -palvelut (eli verkkopalvelut)
 esimerkkejä
 - verkkosivut 
 -sosiaaliset mediat 
@@ -63,7 +63,14 @@ pilvipalvelunjentarjoajat
 kuluttajille ja yrityksille oikeuksia hyödyntää heidän palvelinkeskustensa tietoteknisiä
 resurseja ,kuten laskentatehoa ,säilystystilaa tai palvelimien varassa toimiavia verkkopalveluita.
 
+Mitä hyötyjä on pilvipalvelun käytöstä?
+- luotettavuus 
+- joustavuus
 
+Mitä huonoja puolia on pilvipalvelun käytössä?
+- Huonot puolet on, että osa pilvipalveluista maksavat, jonka takia kannattaa valita ennemmin jokin muu tallennus keino.
+
+- Pilvipalveluissa on myös riski, että tietoja häviää esimerkiksi tietomurron seurauksena. On myös annettu kritiikkiä, että palvelun omistajat pystyvät tarkastelemaan käyttäjien tallentamaa tietoa.
 
 ###### Ohjelmointi
 ###### Toiminta

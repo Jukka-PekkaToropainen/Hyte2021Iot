@@ -28,6 +28,43 @@ IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäj
 ###### Laitteistot
 ###### Komponentit
 ###### Palvelut
+- tietokoneverkko (tai lyhyemmin verkko)
+koostuu tietokoneista,jotka on yhdistetty toisiinsa jollakin sellaisella tavlla,että
+laitteiden välillä voidaan siirtää tietoa.
+protokolla 
+on yhdessä sovittu yhteyskäytäntö tai säännöstö, jonka mukaisesti tietokoneet 
+vaihtavat tietoa(viestejä) keskenään.
+
+esimerkkejä protokollista 
+
+TCP-protokolla 
+IP-protokolla 
+HTTP-protokolla
+Signal-protokolla
+
+
+- WhatsApp 
+- on pikaviestintä palvelu, jonka avulla palvelu käyttäjät voivat muun muassa 
+vaihtaa toistensa kanssa viestejä tai käydä äänipuheluita keskenään.
+
+palvelin on johonkin verkkoon kytketty tietokone,jossa on yksi tai useampi erilainen palvelinohjelma käynnissä.
+
+Ithernet -palvelut (eli verkkopalvelut)
+esimerkkejä
+- verkkosivut 
+-sosiaaliset mediat 
+-pikaviestintäpalvelut (whatsapp ja signal)
+-tiedostojen tallenuspalvelut 
+-sähköposti
+-videotoistopalvelut
+
+pilvipalvelunjentarjoajat 
+-ovat yrityksiä jotka vuokraavat (antavat tietojen keräämistävastaan)
+kuluttajille ja yrityksille oikeuksia hyödyntää heidän palvelinkeskustensa tietoteknisiä
+resurseja ,kuten laskentatehoa ,säilystystilaa tai palvelimien varassa toimiavia verkkopalveluita.
+
+
+
 ###### Ohjelmointi
 ###### Toiminta
 

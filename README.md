@@ -52,11 +52,11 @@ palvelin on johonkin verkkoon kytketty tietokone,jossa on yksi tai useampi erila
 Internet -palvelut (eli verkkopalvelut)
 esimerkkejä
 - verkkosivut 
--sosiaaliset mediat 
--pikaviestintäpalvelut (whatsapp ja signal)
--tiedostojen tallenuspalvelut 
--sähköposti
--videotoistopalvelut
+- sosiaaliset mediat 
+- pikaviestintäpalvelut (whatsapp ja signal)
+- tiedostojen tallenuspalvelut 
+- sähköposti
+- videotoistopalvelut
 
 pilvipalvelunjentarjoajat 
 -ovat yrityksiä jotka vuokraavat (antavat tietojen keräämistävastaan)

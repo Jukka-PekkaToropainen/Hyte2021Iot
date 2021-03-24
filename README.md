@@ -18,7 +18,12 @@ Esineiden internet tarjoaa mahdollisuuden kiinteistön etäseurantaan niin yksit
 
 
 ## Sääasemajärjestelmän toimintakaavio
+IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäjän käyttämä sovellus.
 
+1: anturi
+2:  tietoliikenne (ethernet, wifi...2g 3g 4g 5g bluetooth rfid nfc 
+3 tietovarastot pilvialustat (dataa talennetaan pilvessä  isoimmat tarjojat -(google microsoft)
+4 analytiikka - optimointi tarkkailu 
 
 ###### Laitteistot
 ###### Komponentit

@@ -55,7 +55,7 @@ esimerkkejä
 - videotoistopalvelut
 
 pilvipalvelunjentarjoajat 
--ovat yrityksiä jotka vuokraavat (antavat tietojen keräämistävastaan)
+- ovat yrityksiä jotka vuokraavat (antavat tietojen keräämistävastaan)
 kuluttajille ja yrityksille oikeuksia hyödyntää heidän palvelinkeskustensa tietoteknisiä
 resurseja ,kuten laskentatehoa ,säilystystilaa tai palvelimien varassa toimiavia verkkopalveluita.
 

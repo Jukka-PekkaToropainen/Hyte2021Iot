@@ -5,7 +5,6 @@ import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 import Portfolio from './components/Portfolio';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-
 function App() {
   const initWeather = []; //esimerkiksi mahdollisia tulevia haun filtteröintejä varten tarvitaan state. Esim. näytetäänkö hakutuloksista vain tasatunnein mitatut
   const [weather, setWeather] = useState(initWeather);

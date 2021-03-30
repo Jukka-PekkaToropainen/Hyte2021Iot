@@ -120,7 +120,7 @@ neose prototyyppi tunnistaa 50 hajua
 Näkö:
 - konenäkö pullonpalautus sensori (kognitiivinen konenäkö)
 - robotti imuri ( voi ohjailla puhelimella)
-- infrapuna  esim (liukuhihana)
+- infrapuna 
 
 Tehokkuus
 Konenäkö pystyy havainnoimaan useita ominaisuuksia samanaikaisesti ja tekemään nopeita päätöksiä havaintojen perusteella.
@@ -128,8 +128,15 @@ Konenäkö pystyy havainnoimaan useita ominaisuuksia samanaikaisesti ja tekemä�
 Parempi laatu
 Kone on ihmistä tarkempi ja nopeampi havaitsemaan laatupoikkeamia. Laatua voidaan valvoa ympäri vuorokauden.
 
- Näkeviä sensoreita on paljon esimerkiksi toimistoissa: liiketunnistin sytyttää valot ja kertoo tarvittaessa hälytysliikkeelle, onko tiloissa tunkeutuja. Niillä tutkitaan myös esimerkiksi rahtikontin täyttöastetta.
+ - Näkeviä sensoreita on paljon esimerkiksi toimistoissa: liiketunnistin sytyttää valot ja kertoo tarvittaessa hälytysliikkeelle, onko tiloissa tunkeutuja. Niillä tutkitaan myös esimerkiksi rahtikontin täyttöastetta.
 
+- Konenäkö pyrkii automatisoimaan tehtäviä, jotka perustuvat näkemiseen. Järjestelmä rakentuu kamerasta ja tietokoneesta, joka analysoi kuvia tai videokuvaa. Konenäön avulla pyritään sekä näkemään että ymmärtämään näkymää. Järjestelmä auttaa tunnistamaan esineitä, ihmisiä tai toimintaa. Tunnistamisessa käytetään apuna tekoälyä ja koneoppimista, joiden avulla järjestelmä voidaan opettaa tunnistamaan haluttuja asioita kuvasta.
+
+
+
+DHT-11  anturi
+- DHT-11: tä käytetään lämpötilan ja kosteuden mittaamiseen. Tämä Arduinon lämpötila-anturi on suosituin sen hinnan ja ominaisuuksien takia
+- Se tarjoaa luotettavan tuotannon tulokset, kun ympäristön kosteus vaihtelevat 20% - RH 90% RH ja lämpötila-alue 0 ° C-50 ° C
 
 
 

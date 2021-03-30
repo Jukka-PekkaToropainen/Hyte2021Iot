@@ -70,6 +70,8 @@ Valaistuksentunnistus
 (kaikki data talennetaan)
 
 Äänimittari (melumittari) on käytännöllinen ja hyödyllinen työkalu ihmisille melutasojen havaitsemiseen jokapäiväisessä elämässään. Jos haluat tietää desibelitason ja tehdä äänitestejä, voit välttää altistumisen äänen pilaantumiselle korvien ja kuulon suojaamiseksi
+- kuulevia sensoreita 
+(verbaalisen aggression tunnistaminen)
 
 
 

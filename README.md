@@ -105,6 +105,7 @@ IoT haistaa homeen ja nuuhkii päästöt
 - keino nenä 
 neose prototyyppi tunnistaa 50 hajua  
 
+-  Keinonenän odotetaan tuovan huomattavaa apua erityisesti piilevien ja huonoennusteisten sairauksien, kuten munasarja- ja haimasyövän diagnosoinnissa. Hoitoennuste paranee, kun sairaus löydetään varhaisessa vaiheessa ennen kuin potilas alkaa oireilla.
 
 
 

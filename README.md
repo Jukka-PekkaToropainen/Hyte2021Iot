@@ -47,10 +47,8 @@ tietoliikenne tieto viedään anturilla pilvialustalle.
  tietovarastot  ja pilvialustat kerätyn datan tallenuspaikka 
 
 analytiikka hyödyntää tallennettua dataa. auttaa yrityksiä tai yksilöitä tekemään oikeita päätöksiä esim  (tehtaan optimoinissa tai  hyvinvoinnin parantamisessa)
-- DHT11 - anturia joka mittaa ilman lämpötilaa ja ilmankosteutta.
-anturi muuttaa lämpötilan ja ilmankosteuden sähköiseksi suureeksi.
-anturit suure viedään piirilevyltä johdinta pitkin particle photon kehityskortille.
-anturit ovat nykyään hyvin edullisia sen vuoksi iot kehittyy nopeasti.
+
+
 
 - kiihtyvyystunnistus sensori 
 - kiihtyvyyssensori
@@ -137,7 +135,9 @@ Kone on ihmistä tarkempi ja nopeampi havaitsemaan laatupoikkeamia. Laatua voida
 DHT-11  anturi
 - DHT-11: tä käytetään lämpötilan ja kosteuden mittaamiseen. Tämä Arduinon lämpötila-anturi on suosituin sen hinnan ja ominaisuuksien takia
 - Se tarjoaa luotettavan tuotannon tulokset, kun ympäristön kosteus vaihtelevat 20% - RH 90% RH ja lämpötila-alue 0 ° C-50 ° C
-
+- anturi muuttaa lämpötilan ja ilmankosteuden sähköiseksi suureeksi.
+- anturin suure viedään piirilevyltä johdinta pitkin particle photon kehityskortille.
+- anturit ovat nykyään hyvin edullisia sen vuoksi iot kehittyy nopeasti.
 
 
 ###### Palvelut

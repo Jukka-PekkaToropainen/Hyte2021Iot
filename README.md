@@ -38,7 +38,7 @@ IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäj
 
 ###### Laitteistot
 ###### Komponentit
- Anturi 
+ Anturi:
 
 - anturit keräävät ja tuottavat mittausdataa. anturikeräämään tiedon avulla ohjelmoidaan laitteet toimimaan tietyllä tavalla.
 
@@ -79,7 +79,7 @@ Raspberry Pi
 
 
 
-Lämpö 
+Lämpö:
 
 
 
@@ -102,8 +102,7 @@ Esimerkiksi diabeetikoilla tai palovammapotilailla voi olla isoja ja hitaasti pa
 anturit ovat  pieniä (isoin nokia 2110 kokoa) 
 
 
- Haju 
-IoT haistaa homeen ja nuuhkii päästöt
+ Haju:
 
 - laivojen päästöjen mittaus  
 - home mittaus 
@@ -111,8 +110,6 @@ IoT haistaa homeen ja nuuhkii päästöt
 neose prototyyppi tunnistaa 50 hajua  
 
 -  Keinonenän odotetaan tuovan huomattavaa apua erityisesti piilevien ja huonoennusteisten sairauksien, kuten munasarja- ja haimasyövän diagnosoinnissa. Hoitoennuste paranee, kun sairaus löydetään varhaisessa vaiheessa ennen kuin potilas alkaa oireilla.
-
-
 
 - Navidiumin kehittämän teknologian avulla laivat pystyvät valitsemaan optimaalisen reitin reaaliaikaisten olosuhdetietojen ja ennusteiden mukaan. Tosiaikaista tietoa säistä, jäistä, tuulista ja merivirroista virtaa Navidiumin järjestelmään kymmenistä tuhansista havaintopisteistä eri puolilta maailmaa.
 - Olipa reitti mikä tahansa, polttoaineen kulutus vähenee joka tapauksessa Navidiumin kehittämän optimointiratkaisun avulla. Ulkopuolisten olosuhteiden huomioimisen lisäksi sen IoT-toteutus tarkkailee laivan moottorin ja voimansiirron toimintaa jopa satojen sensoreiden ja virtausmittareiden voimin.

@@ -73,6 +73,23 @@ Valaistuksentunnistus
 - kuulevia sensoreita 
 (verbaalisen aggression tunnistaminen)
 
+- Raspberry Pi yhden piirilevyn minitietokone.  Raspberry Pi on edullisesta hinnastaan huolimatta tehokas ja hyvin laajennettavissa.
+
+
+
+Lämpö 
+
+
+
+- liike,kosteus,(esim ihmisen mahassa)
+- äly pilleri 
+-äly laastari 
+- äly sensoreita voi myös kauttaa eläimiin.
+- myös rahdin seuranta
+- puurakennus ( kosteus vaurioiden välttäminen estäminen)
+- massanmittaaminen (massavirtauksen mittaaminen)
+(liukuhihna)
+
 
 
 ###### Palvelut

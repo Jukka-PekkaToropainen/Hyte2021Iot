@@ -73,6 +73,8 @@ Valaistuksentunnistus
 - kuulevia sensoreita 
 (verbaalisen aggression tunnistaminen)
 
+Raspberry Pi
+
 - Raspberry Pi yhden piirilevyn minitietokone.  Raspberry Pi on edullisesta hinnastaan huolimatta tehokas ja hyvin laajennettavissa.
 
 
@@ -91,6 +93,8 @@ Lämpö
 (liukuhihna)
 
 - kosteus sensoreita voisi käyttää (esim rakennus puolella)
+
+anturit ovat  pieniä (isoin nokia 2110 kokoa) 
 
 
 

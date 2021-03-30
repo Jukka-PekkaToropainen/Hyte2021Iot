@@ -90,7 +90,7 @@ Lämpö:
 Esimerkiksi diabeetikoilla tai palovammapotilailla voi olla isoja ja hitaasti paranevia haavoja ihollaan. Tällaisten haavojen siteitä joudutaan vaihtamaan jopa päivittäin. Itse haavan paraneminen ei sitä välttämättä edellytä, vaan on vain päästävä tarkastamaan, onko haava esimerkiksi tulehtumassa. Kun paranemista seurataan elektrodien avulla, ei siteitä tarkastuksen takia tarvitse avata.
 
 - äly sensoreita voi myös kauttaa eläimiin.
-- myös rahdin seuranta
+- Rahdin seuranta
 - puurakennus ( kosteus vaurioiden välttäminen estäminen)
 - massanmittaaminen (massavirtauksen mittaaminen)
 (liukuhihna)
@@ -111,7 +111,7 @@ neose prototyyppi tunnistaa 50 hajua
 
 - Navidiumin kehittämän teknologian avulla laivat pystyvät valitsemaan optimaalisen reitin reaaliaikaisten olosuhdetietojen ja ennusteiden mukaan. Tosiaikaista tietoa säistä, jäistä, tuulista ja merivirroista virtaa Navidiumin järjestelmään kymmenistä tuhansista havaintopisteistä eri puolilta maailmaa.
 - Olipa reitti mikä tahansa, polttoaineen kulutus vähenee joka tapauksessa Navidiumin kehittämän optimointiratkaisun avulla. Ulkopuolisten olosuhteiden huomioimisen lisäksi sen IoT-toteutus tarkkailee laivan moottorin ja voimansiirron toimintaa jopa satojen sensoreiden ja virtausmittareiden voimin.
-- Järjestelmän hyödyt ovat ilmeisiä. Esimerkiksi Itämerta seilaavat alukset saavuttavat tyypillisesti noin kymmenen prosentin polttoainesäästöt Navidiumin optimointiteknologian ansiosta
+
 - Navidiumin kehittämät algoritmit tekevät laskelmia, joista ihmisaivot eivät suoriutuisi. Ne antavat toimintaohjeitaan analysoimansa datan perusteella. Ulkoisia olosuhdetietoja ja IoT-dataa tulee yhtiön järjestelmään joka sekunti lisää. Sitä on siis paljon – ja koko ajan enemmän.
 
 

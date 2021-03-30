@@ -88,6 +88,7 @@ fetch('https://oppilas-12.azurewebsites.net/api/HttpTriggerCSharp2?code=Q2mnroyi
                 vAxis: { minValue: 0 },
               }}
             />
+           <a href="https://github.com/Jukka-PekkaToropainen/Hyte2021Iot"target="BLANK">ProjektinREADME</a> 
           </div>
         </Route>
       </Switch>

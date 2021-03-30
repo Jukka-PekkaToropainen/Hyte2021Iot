@@ -28,7 +28,7 @@ function Portfolio() {
         Sähköposti: hyvä 
          koodaus perusteet/alkeet</h2> 
       <h1>luonteenpiirteet:</h1>
-             <h2> introvertti </h2>
+             
               <h2>Rauhallinen </h2>
               <h2>huumorintajuinen </h2>
               <h2>tunnollinen </h2>

@@ -7,6 +7,10 @@
 -Lyhykäisyydessään IoT:n idea on, että laitteisiin ja koneisiin lisätään älyä. 
 -Yksinkertaisin esimerkki tällaisesta laitteesta lienee IoT-ranneke eli tutummin aktiivisuusranneke, joka havainnoi käyttäjän liikkeitä ja aktiivisuutta tietyllä aikavälillä. Mikäli ranneke aistii, että käyttäjän aktiivisuustaso on ollut päivän aikana matala, se huomauttaa tästä tärinällä tai helposti huomattavalla valoefektillä. Ranneke kerää kaiken tiedon mobiilisovellukseen, joka on luotu käyttäjälle helposti luettavaksi. Lähde https://www.mpy.fi/yritykset/blogi/mik%C3%A4-ihmeen-iot
 
+- Esineiden Internet on merkittävä sensorimarkkinaa kehittävä voima. Se luo entistä kehittyneimpiä ja monipuolisempia fysikaalisia ja kemiallisia ilmiöitä mittaavia laitteita.
+- Älykkäiden sensoreiden merkitys tulevaisuuden palveluprosesseille ja -liiketoiminnalle on aivan keskeinen.
+
+
 Esimerkki: IoT kiinteistöhallinnassa:
 Esineiden internet tarjoaa mahdollisuuden kiinteistön etäseurantaan niin yksityisellä, kuin julkisellakin sektorilla. IoT mahdollistaa esimerkiksi lämpötilan-, kosteuden- tai kulunseurannan.
 -lämpötilan tarkkailu 
@@ -34,6 +38,41 @@ IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäj
 
 ###### Laitteistot
 ###### Komponentit
+ Anturi 
+
+- anturit keräävät ja tuottavat mittausdataa. anturikeräämään tiedon avulla ohjelmoidaan laitteet toimimaan tietyllä tavalla.
+
+tietoliikenne tieto viedään anturilla pilvialustalle. 
+
+ tietovarastot  ja pilvialustat kerätyn datan tallenuspaikka 
+
+analytiikka hyödyntää tallennettua dataa. auttaa yrityksiä tai yksilöitä tekemään oikeita päätöksiä esim  (tehtaan optimoinissa tai  hyvinvoinnin parantamisessa)
+- DHT11 - anturia joka mittaa ilman lämpötilaa ja ilmankosteutta.
+anturi muuttaa lämpötilan ja ilmankosteuden sähköiseksi suureeksi.
+anturit suure viedään piirilevyltä johdinta pitkin particle photon kehityskortille.
+anturit ovat nykyään hyvin edullisia sen vuoksi iot kehittyy nopeasti.
+
+- kiihtyvyystunnistus sensori 
+- kiihtyvyyssensori
+- GPS paikannus anturi
+- mikrofoni 
+- etäisyyssensori
+- kuvasensori
+- digitaalinen kompassi
+monikosketuksentunnistussensori.
+
+Valaistuksentunnistus
+
+ laitetta voidaan opettaa toimimaan halutulla tavalla.
+ digitaalinen mems mikrofoni 
+ melu sensori ( esim tiikeri häkissä korkeasaaressa)
+  kalibroituja desibeli mittareita
+(kaikki data talennetaan)
+
+Äänimittari (melumittari) on käytännöllinen ja hyödyllinen työkalu ihmisille melutasojen havaitsemiseen jokapäiväisessä elämässään. Jos haluat tietää desibelitason ja tehdä äänitestejä, voit välttää altistumisen äänen pilaantumiselle korvien ja kuulon suojaamiseksi
+
+
+
 ###### Palvelut
 - tietokoneverkko (tai lyhyemmin verkko)
 koostuu tietokoneista,jotka on yhdistetty toisiinsa jollakin sellaisella tavlla,että

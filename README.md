@@ -116,6 +116,22 @@ neose prototyyppi tunnistaa 50 hajua
 - Järjestelmän hyödyt ovat ilmeisiä. Esimerkiksi Itämerta seilaavat alukset saavuttavat tyypillisesti noin kymmenen prosentin polttoainesäästöt Navidiumin optimointiteknologian ansiosta
 - Navidiumin kehittämät algoritmit tekevät laskelmia, joista ihmisaivot eivät suoriutuisi. Ne antavat toimintaohjeitaan analysoimansa datan perusteella. Ulkoisia olosuhdetietoja ja IoT-dataa tulee yhtiön järjestelmään joka sekunti lisää. Sitä on siis paljon – ja koko ajan enemmän.
 
+
+Näkö:
+- konenäkö pullonpalautus sensori (kognitiivinen konenäkö)
+- robotti imuri ( voi ohjailla puhelimella)
+- infrapuna  esim (liukuhihana)
+-
+Tehokkuus
+Konenäkö pystyy havainnoimaan useita ominaisuuksia samanaikaisesti ja tekemään nopeita päätöksiä havaintojen perusteella.
+-
+-Parempi laatu
+Kone on ihmistä tarkempi ja nopeampi havaitsemaan laatupoikkeamia. Laatua voidaan valvoa ympäri vuorokauden.
+
+
+
+
+
 ###### Palvelut
 - tietokoneverkko (tai lyhyemmin verkko)
 koostuu tietokoneista,jotka on yhdistetty toisiinsa jollakin sellaisella tavlla,että

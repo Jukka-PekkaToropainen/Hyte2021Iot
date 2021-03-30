@@ -85,6 +85,7 @@ Lämpö
 
 - liike,kosteus,(esim ihmisen mahassa)
 - äly pilleri 
+Älypilleri paikantaa sijaintinsa suolessa mittaamalla ympäristön paikallisen happamuuden. Suolessa happamuus vaihtelee hyvin paljon paikallisesti, joten pillerin sijainti voidaan määrittää tarkasti. 
 - äly laastari 
 Älylaastari laitetaan iholle kuten normaali laastari, mutta haavatyynynä toimivaan nanosellupohjaiseen hydrogeeliin voidaan lisätä lääkeainetta, joka vapautuu elimistöön vähitellen hoitaen vammaa. Laastarissa on mukana myös sähköisiä antureita, jotka antavat tietoa haavan paranemisesta.
 

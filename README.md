@@ -86,6 +86,10 @@ Lämpö
 - liike,kosteus,(esim ihmisen mahassa)
 - äly pilleri 
 - äly laastari 
+Älylaastari laitetaan iholle kuten normaali laastari, mutta haavatyynynä toimivaan nanosellupohjaiseen hydrogeeliin voidaan lisätä lääkeainetta, joka vapautuu elimistöön vähitellen hoitaen vammaa. Laastarissa on mukana myös sähköisiä antureita, jotka antavat tietoa haavan paranemisesta.
+
+Esimerkiksi diabeetikoilla tai palovammapotilailla voi olla isoja ja hitaasti paranevia haavoja ihollaan. Tällaisten haavojen siteitä joudutaan vaihtamaan jopa päivittäin. Itse haavan paraneminen ei sitä välttämättä edellytä, vaan on vain päästävä tarkastamaan, onko haava esimerkiksi tulehtumassa. Kun paranemista seurataan elektrodien avulla, ei siteitä tarkastuksen takia tarvitse avata.
+
 - äly sensoreita voi myös kauttaa eläimiin.
 - myös rahdin seuranta
 - puurakennus ( kosteus vaurioiden välttäminen estäminen)

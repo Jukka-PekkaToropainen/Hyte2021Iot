@@ -90,6 +90,8 @@ Lämpö
 - massanmittaaminen (massavirtauksen mittaaminen)
 (liukuhihna)
 
+- kosteus sensoreita voisi käyttää (esim rakennus puolella)
+
 
 
 ###### Palvelut

@@ -83,7 +83,7 @@ Lämpö
 
 - liike,kosteus,(esim ihmisen mahassa)
 - äly pilleri 
--äly laastari 
+- äly laastari 
 - äly sensoreita voi myös kauttaa eläimiin.
 - myös rahdin seuranta
 - puurakennus ( kosteus vaurioiden välttäminen estäminen)

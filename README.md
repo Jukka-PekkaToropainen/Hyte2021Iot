@@ -121,13 +121,14 @@ Näkö:
 - konenäkö pullonpalautus sensori (kognitiivinen konenäkö)
 - robotti imuri ( voi ohjailla puhelimella)
 - infrapuna  esim (liukuhihana)
--
+
 Tehokkuus
 Konenäkö pystyy havainnoimaan useita ominaisuuksia samanaikaisesti ja tekemään nopeita päätöksiä havaintojen perusteella.
--
--Parempi laatu
+
+Parempi laatu
 Kone on ihmistä tarkempi ja nopeampi havaitsemaan laatupoikkeamia. Laatua voidaan valvoa ympäri vuorokauden.
 
+ Näkeviä sensoreita on paljon esimerkiksi toimistoissa: liiketunnistin sytyttää valot ja kertoo tarvittaessa hälytysliikkeelle, onko tiloissa tunkeutuja. Niillä tutkitaan myös esimerkiksi rahtikontin täyttöastetta.
 
 
 

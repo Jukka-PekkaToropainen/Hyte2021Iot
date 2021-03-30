@@ -97,6 +97,19 @@ Lämpö
 anturit ovat  pieniä (isoin nokia 2110 kokoa) 
 
 
+ Haju 
+IoT haistaa homeen ja nuuhkii päästöt
+
+- laivojen päästöjen mittaus  
+- home mittaus 
+- keino nenä 
+neose prototyyppi tunnistaa 50 hajua  
+
+
+
+
+
+
 
 ###### Palvelut
 - tietokoneverkko (tai lyhyemmin verkko)

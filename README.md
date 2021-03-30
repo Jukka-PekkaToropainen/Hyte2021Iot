@@ -114,8 +114,10 @@ neose prototyyppi tunnistaa 50 hajua
 
 
 
-
-
+- Navidiumin kehittämän teknologian avulla laivat pystyvät valitsemaan optimaalisen reitin reaaliaikaisten olosuhdetietojen ja ennusteiden mukaan. Tosiaikaista tietoa säistä, jäistä, tuulista ja merivirroista virtaa Navidiumin järjestelmään kymmenistä tuhansista havaintopisteistä eri puolilta maailmaa.
+- Olipa reitti mikä tahansa, polttoaineen kulutus vähenee joka tapauksessa Navidiumin kehittämän optimointiratkaisun avulla. Ulkopuolisten olosuhteiden huomioimisen lisäksi sen IoT-toteutus tarkkailee laivan moottorin ja voimansiirron toimintaa jopa satojen sensoreiden ja virtausmittareiden voimin.
+- Järjestelmän hyödyt ovat ilmeisiä. Esimerkiksi Itämerta seilaavat alukset saavuttavat tyypillisesti noin kymmenen prosentin polttoainesäästöt Navidiumin optimointiteknologian ansiosta
+- Navidiumin kehittämät algoritmit tekevät laskelmia, joista ihmisaivot eivät suoriutuisi. Ne antavat toimintaohjeitaan analysoimansa datan perusteella. Ulkoisia olosuhdetietoja ja IoT-dataa tulee yhtiön järjestelmään joka sekunti lisää. Sitä on siis paljon – ja koko ajan enemmän.
 
 ###### Palvelut
 - tietokoneverkko (tai lyhyemmin verkko)

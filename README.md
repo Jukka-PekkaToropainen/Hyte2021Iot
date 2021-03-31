@@ -301,6 +301,7 @@ Käyttöliittymä:
 Mikä on API
 - API on lyhenne sanoista application programming interface, eli ohjelmointirajapinta ja tarkoittaa samaa kuin rajapinta. Eli jos joku alkaa selostamaan sinulle jotain apista, niin nyt ymmärrät, että kyse on ohjelmiston ohjelmointirajapinnasta.
 
+- Versionhallinta tarkoittaa menetelmiä, joilla tiedostoista (tai muista tietovarastoista) pidetään muistissa, millaisia ne ovat olleet missäkin vaiheessa, kuka niitä on muuttanut, milloin ja miten (sekä usein vapaamuotoisia kuvauksia siitä, miksi). Toisin päin versionhallinta kertoo tiedostoista (tai muista tietovarastoista), miten ne ovat muodostuneet, mikä niissä on kenenkin tekemää ja mitä muutoksia ne sisältävät. 
 
 
 # Viitteet

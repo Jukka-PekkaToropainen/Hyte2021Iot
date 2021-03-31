@@ -39,7 +39,20 @@ IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäj
 ###### Laitteistot
 
 Laitteisto:
+Particle Photon IoT KEHITYSKORTTI
 
+-    Particle P Wi-Fi module
+ -       Broadcom BCM43362 Wi-Fi chip
+  -      802.11b/g/n Wi-Fi
+    -    STM32F205RGY6 120Mhz ARM Cortex M3
+     -   1MB flash, 128KB RAM
+   - On-board chip antenna (external antenna IPEX U.FL optional)
+    - On-board RGB status LED (ext. drive provided)
+    - 18 Mixed-signal GPIO and advanced peripherals
+    - Open source design
+    - Real-time operating system (FreeRTOS)
+    - Soft AP setup
+    - FCC, CE ja IC certified
 
 - particle Photon- kehityskortti vastaanottaa sähköiseen suuren ja muuttaa sen digitaaliseen muotoon.
 - koodajaan ohjelmoimaan Firmware (laitteistoohjelma) koodin ansiosta kehityskortin prosessi osaa kirjoittaa saamansa tiedon asteina ja prosentteina konsolin ja lähettää datan webhookilla eteenpäin.

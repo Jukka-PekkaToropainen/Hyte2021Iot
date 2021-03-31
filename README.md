@@ -275,5 +275,11 @@ Käyttöliittymä:
 - Github–palvelusta tehdään ci/cd (=continuousintegration/ continuousdeployment) pipelineAzurelle,jossakäyttöliittymä julkaistaan StaticWeb Apppalveluna. Näin versionhallintaan siirretty käyttöliittymäkoodi päivittyy automaattisesti tuotantopalvelimelle ja on heti selaimella käytettävissä.
 - Projektia kehitetään lyhyinä sprintteinä, eli pienet muutokset siirretään testattavaksi ja koodia muokataan joustavasti ja skaalautuvasti tarpeen mukaan. 
 
+
+![...](Käyttöliittymä.PNG)
+
+
+
+
 # Termihakemisto
 # Viitteet

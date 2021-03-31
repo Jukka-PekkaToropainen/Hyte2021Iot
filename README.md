@@ -251,6 +251,11 @@ Mitä huonoja puolia on pilvipalvelun käytössä?
 - versionhallinta 
 - particle pilvipalvelu 
 - PilviPalvelu MS Azure 
+![...](1.png)
+
+
+
+
 - ParticlePhotoninkonsolista tehdään Webhookkutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopindelay-ajalla.
 Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. 
 
@@ -263,22 +268,6 @@ Käyttöliittymä:
  - Koodit siirretään versionhallintajärjestelmään. Tässä tapauksessa käytetiin Github–palvelua. 
 - Github–palvelusta tehdään ci/cd (=continuousintegration/ continuousdeployment) pipelineAzurelle,jossakäyttöliittymä julkaistaan StaticWeb Apppalveluna. Näin versionhallintaan siirretty käyttöliittymäkoodi päivittyy automaattisesti tuotantopalvelimelle ja on heti selaimella käytettävissä.
 - Projektia kehitetään lyhyinä sprintteinä, eli pienet muutokset siirretään testattavaksi ja koodia muokataan joustavasti ja skaalautuvasti tarpeen mukaan. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Termihakemisto
 # Viitteet

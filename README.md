@@ -41,11 +41,11 @@ IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäj
 Laitteisto:
 Particle Photon IoT KEHITYSKORTTI
 
--    Particle P Wi-Fi module
- -       Broadcom BCM43362 Wi-Fi chip
-  -      802.11b/g/n Wi-Fi
-    -    STM32F205RGY6 120Mhz ARM Cortex M3
-     -   1MB flash, 128KB RAM
+  - Particle P Wi-Fi module
+   - Broadcom BCM43362 Wi-Fi chip
+   - 802.11b/g/n Wi-Fi     
+   - STM32F205RGY6 120Mhz ARM Cortex M3
+    - 1MB flash, 128KB RAM
    - On-board chip antenna (external antenna IPEX U.FL optional)
     - On-board RGB status LED (ext. drive provided)
     - 18 Mixed-signal GPIO and advanced peripherals

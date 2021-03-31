@@ -312,6 +312,18 @@ Mikä on API
 
 - Versionhallinta tarkoittaa menetelmiä, joilla tiedostoista (tai muista tietovarastoista) pidetään muistissa, millaisia ne ovat olleet missäkin vaiheessa, kuka niitä on muuttanut, milloin ja miten (sekä usein vapaamuotoisia kuvauksia siitä, miksi). Toisin päin versionhallinta kertoo tiedostoista (tai muista tietovarastoista), miten ne ovat muodostuneet, mikä niissä on kenenkin tekemää ja mitä muutoksia ne sisältävät. 
 
+- TCP (lyhenne sanoista Transmission Control Protocol) on tietoliikenneprotokolla tietokoneiden väliseen luotettavaan tiedonsiirtoon
+
+- TCP-yhteyksien avulla tietokoneet voivat lähettää toisilleen tavujonoja luotettavasti. TCP pitää myös huolta, että paketit saapuvat perille oikeassa järjestyksessä. Tarvittaessa hävinnyt paketti voidaan lähettää uudestaan. Tätä tarkoitusta varten TCP:hen on kehitetty erilaisia vuonvalvonta- ja ruuhkanhallintamekanismeja. Suurin osa Internetin liikenteestä perustuu TCP:hen ja koko TCP/IP-protokollaperhe on saanut nimensä TCP:n perusteella.
+
+Esimerkiksi WWW-sivujen hakeminen tehdään siten, että selaimen ja palvelimen välille muodostetaan TCP-yhteys, jossa selain voi lähettää tavujonoja palvelimelle ja toisinpäin.
+
+TCP:n paikka OSI-mallissa on kuljetuskerroksessa. 
+
+- IP (engl. Internet Protocol) on TCP/IP-viitemallin verkkokerroksen protokolla, joka huolehtii IP-tietoliikennepakettien toimittamisesta perille pakettikytkentäisessä Internet-verkossa. Se on internetin toiminnan ydin, joka yhdistää internetiin liittyneitä laitteita palvelimiin ja sitä kautta mahdollisesti toisiin käyttäjiin. IP ei yksilöi käyttäjää. 
+
+- HTTP (lyhenne sanoista Hypertext Transfer Protocol eli hypertekstin siirtoprotokolla) on protokolla, jota selaimet ja WWW-palvelimet käyttävät tiedonsiirtoon. Protokolla perustuu siihen, että asiakasohjelma (selain, hakurobotti tms.) avaa TCP-yhteyden palvelimelle ja lähettää pyynnön. Palvelin vastaa lähettämällä sopivan vastauksen, tavallisimmin HTML-sivun tai binääridataa kuten kuvia, ohjelmia tai ääntä. 
+
 
 # Viitteet
 LÄHDELUETTELO

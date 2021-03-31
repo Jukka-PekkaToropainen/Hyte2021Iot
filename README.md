@@ -237,13 +237,14 @@ Mitä huonoja puolia on pilvipalvelun käytössä?
 - Pilvipalveluissa on myös riski, että tietoja häviää esimerkiksi tietomurron seurauksena. On myös annettu kritiikkiä, että palvelun omistajat pystyvät tarkastelemaan käyttäjien tallentamaa tietoa.
 
 ###### Ohjelmointi
+###### Toiminta
 
+# Käytetyt kehitysympäristöt
 - particle pilvipalvelu 
 - repl.it 
 - azure 
 - versionhallinta 
-###### Toiminta
 
-# Käytetyt kehitysympäristöt
+
 # Termihakemisto
 # Viitteet

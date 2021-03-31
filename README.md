@@ -256,10 +256,10 @@ Mitä huonoja puolia on pilvipalvelun käytössä?
 
 
 
-- ParticlePhotoninkonsolista tehdään Webhookkutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopindelay-ajalla.
-Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. 
+- Particle Photonin konsolista tehdään Webhookkutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopindelay-ajalla.
+Trigger tallentaa Webhookilla tulleen datan Tablestorageen pilvipalvelussa. 
 
-- Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. Tablestorageen lähetetään mittaustiedon lisäksi myös laitteen id tieto.
+- Trigger tallentaa Webhookilla tulleen datan Tablestorageen pilvipalvelussa. Tablestorageen lähetetään mittaustiedon lisäksi myös laitteen id tieto.
 
 ![...](iotdataPNG.PNG)
 

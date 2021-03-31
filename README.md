@@ -241,9 +241,29 @@ Mitä huonoja puolia on pilvipalvelun käytössä?
 
 # Käytetyt kehitysympäristöt
 - particle pilvipalvelu 
+- PilviPalvelu MS Azure 
+- ParticlePhotoninkonsolista tehdään Webhookkutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopindelay-ajalla.
+Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. 
+
+- Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. Tablestorageen lähetetään mittaustiedon lisäksi myös laitteen id tieto.
+
+
+
+
 - repl.it 
 - azure 
 - versionhallinta 
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Termihakemisto

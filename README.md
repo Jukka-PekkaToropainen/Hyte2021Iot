@@ -312,4 +312,5 @@ LÄHDELUETTELO
 - Gynther, R & Avovaara, A. (käsikirjoittajat). [LAB Focus]. (27.8.2020). Mitä IoTon | IoT-osaamisloikka 1 [video]. Haettu osoitteesta https://youtu.be/BK06TQA_ygY?list=PLtbOrywM-BA8qzTn5fkzhlcaR3d92HYO7
 
 - Lantta, E. & Vahto, A. (käsikirjoittajat). [LAB Focus]. (27.8.2020). IoTjärjestelmärakenne || IoT-osaamisloikka 2 [video]. Haettu osoitteesta https://youtu.be/2p7V_6WzVOw?list=PLtbOrywM-BA8qzTn5fkzhlcaR3d92HYO7
+
 - Lähde https://www.mpy.fi/yritykset/blogi/mik%C3%A4-ihmeen-iot

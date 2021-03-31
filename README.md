@@ -92,6 +92,12 @@ MultiSensor 6:
 - Tärinäanturi 
 - UV anturi 
 
+LAITEOHJELMISTO
+- lataa laitteen koodin tarvittavat kirjastot:
+- ohjelmoi laite:
+
+
+
 ###### Komponentit
  Anturi:
 

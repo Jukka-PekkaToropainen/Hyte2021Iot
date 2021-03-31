@@ -283,10 +283,10 @@ Trigger tallentaa Webhookilla tulleen datan Tablestorageen pilvipalvelussa.
 
 Käyttöliittymä:
 
-- Käyttöliittymä tehtiin Reactilla. Ohjelmointiympäristönä voi käyttää esim. Visual Studio Code–ohjelmaa, tai netissä toimivaa Replit.com –palvelua. ReactkutsuuAzurellatoistatriggeriä,jokarakentaa Tablestoragentiedoista JSON rajapinnan (REST API) pyydetyillä parametreilla. Trigger-koodi pystyy tällä hetkellä käsittelemään laitteen id (deviceId) ja mittaustulosmäärä (amount) parametrit. Parametrit lähetetään triggerkutsun URL:ssa.
+- Käyttöliittymä tehtiin Reactilla. Ohjelmointiympäristönä voi käyttää esim. Visual Studio Code–ohjelmaa, tai netissä toimivaa Replit.com –palvelua. React kutsuu Azurella toista triggeriä,joka rakentaa Tablestoragentiedoista JSON rajapinnan (REST API) pyydetyillä parametreilla. Trigger-koodi pystyy tällä hetkellä käsittelemään laitteen id (deviceId) ja mittaustulosmäärä (amount) parametrit. Parametrit lähetetään triggerkutsun URL:ssa.
 - Uusimmistamittaustuloksista piirretään Google chartspalvelua käyttäen kaaviot ilmankosteudesta sekä lämpötilasta.
  - Koodit siirretään versionhallintajärjestelmään. Tässä tapauksessa käytetiin Github–palvelua. 
-- Github–palvelusta tehdään ci/cd (=continuousintegration/ continuousdeployment) pipelineAzurelle,jossakäyttöliittymä julkaistaan StaticWeb Apppalveluna. Näin versionhallintaan siirretty käyttöliittymäkoodi päivittyy automaattisesti tuotantopalvelimelle ja on heti selaimella käytettävissä.
+- Github–palvelusta tehdään ci/cd (=continuousintegration/ continuousdeployment) pipeline Azurelle,jossakäyttöliittymä julkaistaan StaticWeb App palveluna. Näin versionhallintaan siirretty käyttöliittymäkoodi päivittyy automaattisesti tuotantopalvelimelle ja on heti selaimella käytettävissä.
 - Projektia kehitetään lyhyinä sprintteinä, eli pienet muutokset siirretään testattavaksi ja koodia muokataan joustavasti ja skaalautuvasti tarpeen mukaan. 
 
 

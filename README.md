@@ -280,7 +280,7 @@ Käyttöliittymä:
 
 ![...](CSharp2.PNG)
 
-![...](IoT sääasema.PNG)
+![...](IoTsääasema.PNG)
 
 
 # Termihakemisto

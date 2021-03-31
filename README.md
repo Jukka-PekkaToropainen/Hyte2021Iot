@@ -298,6 +298,9 @@ Käyttöliittymä:
 
 
 # Termihakemisto
+Mikä on API
+- API on lyhenne sanoista application programming interface, eli ohjelmointirajapinta ja tarkoittaa samaa kuin rajapinta. Eli jos joku alkaa selostamaan sinulle jotain apista, niin nyt ymmärrät, että kyse on ohjelmiston ohjelmointirajapinnasta.
+
 
 
 # Viitteet

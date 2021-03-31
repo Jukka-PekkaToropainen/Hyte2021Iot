@@ -159,7 +159,7 @@ Lämpö:
 - liike,kosteus,(esim ihmisen mahassa)
 - äly pilleri 
 Älypilleri paikantaa sijaintinsa suolessa mittaamalla ympäristön paikallisen happamuuden. Suolessa happamuus vaihtelee hyvin paljon paikallisesti, joten pillerin sijainti voidaan määrittää tarkasti. 
-- äly laastari 
+- Äly laastari 
 Älylaastari laitetaan iholle kuten normaali laastari, mutta haavatyynynä toimivaan nanosellupohjaiseen hydrogeeliin voidaan lisätä lääkeainetta, joka vapautuu elimistöön vähitellen hoitaen vammaa. Laastarissa on mukana myös sähköisiä antureita, jotka antavat tietoa haavan paranemisesta.
 
 Esimerkiksi diabeetikoilla tai palovammapotilailla voi olla isoja ja hitaasti paranevia haavoja ihollaan. Tällaisten haavojen siteitä joudutaan vaihtamaan jopa päivittäin. Itse haavan paraneminen ei sitä välttämättä edellytä, vaan on vain päästävä tarkastamaan, onko haava esimerkiksi tulehtumassa. Kun paranemista seurataan elektrodien avulla, ei siteitä tarkastuksen takia tarvitse avata.
@@ -270,7 +270,7 @@ Mitä huonoja puolia on pilvipalvelun käytössä?
 
 
 
-- Particle Photonin konsolista tehdään Webhookkutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopindelay-ajalla.
+- Particle Photonin konsolista tehdään Webhook kutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopin delay-ajalla.
 Trigger tallentaa Webhookilla tulleen datan Tablestorageen pilvipalvelussa. 
 
 - Trigger tallentaa Webhookilla tulleen datan Tablestorageen pilvipalvelussa. Tablestorageen lähetetään mittaustiedon lisäksi myös laitteen id tieto.
@@ -283,7 +283,7 @@ Trigger tallentaa Webhookilla tulleen datan Tablestorageen pilvipalvelussa.
 
 Käyttöliittymä:
 
-- Käyttöliittymä tehtiin Reactilla. Ohjelmointiympäristönä voi käyttää esim. Visual Studio Code–ohjelmaa, tai netissä toimivaa Replit.com –palvelua. React kutsuu Azurella toista triggeriä,joka rakentaa Tablestoragentiedoista JSON rajapinnan (REST API) pyydetyillä parametreilla. Trigger-koodi pystyy tällä hetkellä käsittelemään laitteen id (deviceId) ja mittaustulosmäärä (amount) parametrit. Parametrit lähetetään triggerkutsun URL:ssa.
+- Käyttöliittymä tehtiin Reactilla. Ohjelmointiympäristönä voi käyttää esim. Visual Studio Code–ohjelmaa, tai netissä toimivaa Replit.com –palvelua. React kutsuu Azurella toista triggeriä,joka rakentaa Tablestoragen tiedoista JSON rajapinnan (REST API) pyydetyillä parametreilla. Trigger-koodi pystyy tällä hetkellä käsittelemään laitteen id (deviceId) ja mittaustulosmäärä (amount) parametrit. Parametrit lähetetään triggerkutsun URL:ssa.
 - Uusimmistamittaustuloksista piirretään Google chartspalvelua käyttäen kaaviot ilmankosteudesta sekä lämpötilasta.
  - Koodit siirretään versionhallintajärjestelmään. Tässä tapauksessa käytetiin Github–palvelua. 
 - Github–palvelusta tehdään ci/cd (=continuousintegration/ continuousdeployment) pipeline Azurelle,jossakäyttöliittymä julkaistaan StaticWeb App palveluna. Näin versionhallintaan siirretty käyttöliittymäkoodi päivittyy automaattisesti tuotantopalvelimelle ja on heti selaimella käytettävissä.

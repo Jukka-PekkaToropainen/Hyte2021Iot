@@ -261,6 +261,12 @@ Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa.
 
 - Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. Tablestorageen lähetetään mittaustiedon lisäksi myös laitteen id tieto.
 
+![...](iotdataPNG.PNG)
+
+
+
+
+
 Käyttöliittymä:
 
 - Käyttöliittymä tehtiin Reactilla. Ohjelmointiympäristönä voi käyttää esim. Visual Studio Code–ohjelmaa, tai netissä toimivaa Replit.com –palvelua. ReactkutsuuAzurellatoistatriggeriä,jokarakentaa Tablestoragentiedoista JSON rajapinnan (REST API) pyydetyillä parametreilla. Trigger-koodi pystyy tällä hetkellä käsittelemään laitteen id (deviceId) ja mittaustulosmäärä (amount) parametrit. Parametrit lähetetään triggerkutsun URL:ssa.

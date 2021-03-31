@@ -291,11 +291,17 @@ Käyttöliittymä:
 
 
 ![...](Käyttöliittymä.PNG)
+
 ![...](kuva1.PNG)
-1. talentaa  dataa 
+triggercsharp1
 
-2.hakee dataa tietokannasta  
+tallentaa  dataa 
 
+
+![...](kuva2.PNG)
+triggercsharp2
+
+hakee dataa tietokannasta  
 
 ![...](IoTsääasema.PNG)
 

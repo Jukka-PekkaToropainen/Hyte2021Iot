@@ -37,6 +37,71 @@ IoT:n rakenteessa näkyvintä osaa ovat nettiin kytketyt laitteet ja käyttäj
 4 analytiikka - optimointi tarkkailu 
 
 ###### Laitteistot
+
+Laitteisto:
+
+
+- particle Photon- kehityskortti vastaanottaa sähköiseen suuren ja muuttaa sen digitaaliseen muotoon.
+- koodajaan ohjelmoimaan Firmware (laitteistoohjelma) koodin ansiosta kehityskortin prosessi osaa kirjoittaa saamansa tiedon asteina ja prosentteina konsolin ja lähettää datan webhookilla eteenpäin.
+
+- particle photonin laiteohjelmisto kirjoitetaan web Idellä (intergrated devolopment environment)
+
+- kalibrointi anturin mittauksen tarkkuuden ja luotettavuuden varmistamiseen
+verrataan kalibroitavan anturin antamaan luomaan referenssi anturiin.
+
+
+
+arduino :
+- ohjelmoitava 8 bittinen mikroprosessori 
+ohjelmointi tapahtuu arduino iden avulla
+- perusharrastajan alusta 
+levylle mahdollista liittää lisälevyjä eli shieldejä.
+pinneihin voi hyppylangoilla kiinnittää myös anturielementtejä tai muita elektronisia osia.
+
+
+
+Micro: bit 
+
+- ohjelmointii ja pienten elektroniikkaprojektien harjoitteluun 
+suorittimen ARM Cortex m0 cpu 
+- 25 ohjelmoitavaa lediä
+- 2 ohjelmoitavaa painonappia 
+- valo- lämpötila anturi 
+liike anturi ( kiihtyvyysmittari ja kompassi)
+langattomat yhteyden radion ja bluetoothin avulla 
+liitäntäpinnejä.
+
+
+
+Ruuvitaq
+- avoimen lähdekoodin anturialusta 
+- Bluetooth 
+- Lämpötila
+- ilman suhteellinen kosteus 
+- ilman paine
+- kiihtyvyys 
+
+
+MultiSensor 6:
+- ei prosessoria 
+- z Wawe gateway 
+- liiketunnistin 
+- lämpötila 
+- valoanturi 
+- kosteusanturi 
+- Tärinäanturi 
+- UV anturi 
+
+
+
+
+
+
+
+
+
+
+
 ###### Komponentit
  Anturi:
 

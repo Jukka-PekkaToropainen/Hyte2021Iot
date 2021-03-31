@@ -246,6 +246,9 @@ Mitä huonoja puolia on pilvipalvelun käytössä?
 ###### Toiminta
 
 # Käytetyt kehitysympäristöt
+- repl.it 
+- azure 
+- versionhallinta 
 - particle pilvipalvelu 
 - PilviPalvelu MS Azure 
 - ParticlePhotoninkonsolista tehdään Webhookkutsu Azurentriggerille aina kun uusi mittaustulos saadaan. Mittausväli asetetaan laiteohjelmistossa loopindelay-ajalla.
@@ -253,12 +256,17 @@ Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa.
 
 - Triggertallentaa Webhookilla tulleen datan Tablestorageenpilvipalvelussa. Tablestorageen lähetetään mittaustiedon lisäksi myös laitteen id tieto.
 
+Käyttöliittymä:
+
+- Käyttöliittymä tehtiin Reactilla. Ohjelmointiympäristönä voi käyttää esim. Visual Studio Code–ohjelmaa, tai netissä toimivaa Replit.com –palvelua. ReactkutsuuAzurellatoistatriggeriä,jokarakentaa Tablestoragentiedoista JSON rajapinnan (REST API) pyydetyillä parametreilla. Trigger-koodi pystyy tällä hetkellä käsittelemään laitteen id (deviceId) ja mittaustulosmäärä (amount) parametrit. Parametrit lähetetään triggerkutsun URL:ssa.
+- Uusimmistamittaustuloksista piirretään Google chartspalvelua käyttäen kaaviot ilmankosteudesta sekä lämpötilasta.
+ - Koodit siirretään versionhallintajärjestelmään. Tässä tapauksessa käytetiin Github–palvelua. 
+- Github–palvelusta tehdään ci/cd (=continuousintegration/ continuousdeployment) pipelineAzurelle,jossakäyttöliittymä julkaistaan StaticWeb Apppalveluna. Näin versionhallintaan siirretty käyttöliittymäkoodi päivittyy automaattisesti tuotantopalvelimelle ja on heti selaimella käytettävissä.
+- Projektia kehitetään lyhyinä sprintteinä, eli pienet muutokset siirretään testattavaksi ja koodia muokataan joustavasti ja skaalautuvasti tarpeen mukaan. 
 
 
 
-- repl.it 
-- azure 
-- versionhallinta 
+
 
 
 

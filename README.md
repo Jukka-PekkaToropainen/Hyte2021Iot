@@ -94,7 +94,7 @@ MultiSensor 6:
 
 LAITEOHJELMISTO
 - lataa laitteen koodin tarvittavat kirjastot:
-![...](IoT - pdf(1).png
+![...](IoTpdf(1).png
 
 - ohjelmoi laite:
 

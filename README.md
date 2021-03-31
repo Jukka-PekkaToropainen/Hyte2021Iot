@@ -291,8 +291,11 @@ Käyttöliittymä:
 
 
 ![...](Käyttöliittymä.PNG)
+![...](kuva1.PNG)
+1. talentaa  dataa 
 
-![...](CSharp2.PNG)
+2.hakee dataa tietokannasta  
+
 
 ![...](IoTsääasema.PNG)
 

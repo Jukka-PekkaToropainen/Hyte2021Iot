@@ -92,16 +92,6 @@ MultiSensor 6:
 - Tärinäanturi 
 - UV anturi 
 
-
-
-
-
-
-
-
-
-
-
 ###### Komponentit
  Anturi:
 

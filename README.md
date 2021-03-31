@@ -97,7 +97,7 @@ LAITEOHJELMISTO
 
 - ohjelmoi laite:
 
-![...](IoT 2pdf).png
+
 
 ###### Komponentit
  Anturi:
